@@ -67,4 +67,4 @@ I am currently exploring practical applications of AI in commercial management, 
 
 Based in Barcelona, Spain.
 
-[LinkedIn](TU-URL-DE-LINKEDIN) · [Website](https://bridgeformula.com)
+[LinkedIn](https://www.linkedin.com/in/ramonlopez-directorcomercial/) · [Website](https://bridgeformula.com/)
