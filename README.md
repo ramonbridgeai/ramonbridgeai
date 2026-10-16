@@ -1,7 +1,7 @@
 # Ramón López Sánchez
 
 **Director Comercial · Sales Director · Head of Sales**  
-Sales strategy, team leadership and commercial performance · Tarragona, Spain
+Sales strategy, team leadership and commercial performance · Barcelona, Spain
 
 I work at the intersection of commercial strategy and day-to-day execution: developing distribution networks, managing strategic accounts, supporting sales teams and turning business priorities into action.
 
