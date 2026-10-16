@@ -1,70 +1,44 @@
 # Ramón López Sánchez
 
-### Commercial Director | Sales Strategy | Business Transformation & AI
+**Director Comercial · Sales Director · Head of Sales**  
+Sales strategy, team leadership and commercial performance · Tarragona, Spain
 
-Commercial leader with extensive experience in sales management, business development and commercial transformation across B2B and B2C environments.
+I work at the intersection of commercial strategy and day-to-day execution: developing distribution networks, managing strategic accounts, supporting sales teams and turning business priorities into action.
 
-My work combines commercial strategy, team leadership and data-driven decision-making with the practical application of AI to sales management.
+My background includes commercial leadership at Citizen Watch in Spain and Portugal, national sales management at Golden Lady, international operations at Kids&Us and running an education centre.
 
-I am particularly interested in how technology and AI can help commercial leaders better understand performance, diagnose business challenges and improve sales execution.
+Here I share applied projects exploring how AI and business analysis can support commercial management, sales training and better decisions.
 
-## Selected Projects
+## Selected projects
 
-### Commercial Compass
-**AI-Powered Commercial Diagnosis & Transformation Platform**
+### [Commercial Compass](https://github.com/ramonbridgeai/commercial-compass)
+**Commercial diagnosis and action planning**
 
-A structured commercial management platform designed to transform company information into a validated assessment of the current commercial situation, a structured diagnosis and a prioritised 30-60-90 action plan.
+A structured workflow to organise company information, validate the current commercial situation and connect diagnosis with management priorities and an action plan.
 
-**Workflow:**  
-Company Information → Current Situation → Commercial Diagnosis → Action Plan
+### [BRIDGE AI](https://github.com/ramonbridgeai/bridge-ai)
+**AI-assisted consultative sales training**
 
----
+A project exploring simulated customer conversations, voice interaction and structured feedback to help commercial teams practise consultative selling.
 
-### SaaS Compass
-**SaaS Commercial Performance Lab**
+### [SaaS Compass](https://github.com/ramonbridgeai/saas-compass)
+**SaaS commercial performance lab**
 
-An applied learning and business analysis environment designed to explore how SaaS metrics connect to commercial performance and management decision-making.
+An applied learning project using fictional B2B SaaS business cases to explore growth, retention, sales efficiency and unit economics from a commercial management perspective.
 
-It uses fictional B2B SaaS companies and business cases to analyse growth, retention, sales performance and unit economics from a commercial management perspective.
+## Commercial focus
 
----
+- Sales strategy and business development
+- Sales team leadership and development
+- Distribution networks and strategic accounts
+- Commercial performance, KPIs and action planning
+- International operations
+- AI applied to commercial management and consultative sales training
 
-### BRIDGE AI
-**AI-Powered Consultative Sales Training & Simulation Platform**
+## En español
 
-An applied AI project designed to help commercial teams practise consultative selling through realistic customer simulations, voice conversations and structured performance feedback.
-
-The platform combines conversational AI, sales methodology and voice interaction to create realistic commercial training scenarios.
-
-## Areas of Focus
-
-- Commercial Strategy & Sales Management
-- Business Transformation
-- B2B & B2C Sales
-- Commercial Performance & KPIs
-- SaaS Metrics & Business Analysis
-- Sales Team Development
-- AI Applied to Sales
-- Consultative Selling
-
-## Professional Background
-
-Commercial leadership experience across Spain, Portugal and international markets, including sales strategy, distribution networks, business development, strategic accounts, team leadership and international expansion.
-
-My approach combines **strategy, people, data and execution** to turn commercial objectives into measurable business results.
-
-## Current Exploration
-
-I am currently exploring practical applications of AI in commercial management, particularly in:
-
-- Commercial diagnosis and decision support
-- Sales performance analysis
-- AI-assisted sales training
-- Customer conversation simulation
-- Commercial planning and execution
+Mi trayectoria se centra en la dirección comercial, el desarrollo de negocio y la gestión de equipos y redes de distribución. Estos proyectos exploran aplicaciones prácticas de la IA y del análisis de negocio para comprender el rendimiento comercial, preparar decisiones y mejorar la ejecución.
 
 ## Connect
-
-Based in Barcelona, Spain.
 
 [LinkedIn](https://www.linkedin.com/in/ramonlopez-directorcomercial/) · [Website](https://bridgeformula.com/)
